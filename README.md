@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**MOzcelik14/MOzcelik14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        _,met$$$$$gg.          ┌─────────────────────────────┐
+     ,g$$$$$$$$$$$$$$$P.       │ OS       Debian GNU/Linux   │
+   ,g$$P""       """Y$$.".     │ KERNEL   6.16.12+deb13      │
+  ,$$P'              `$$$.     │ DE       GNOME              │
+',$$P       ,ggs.     `$$b:    │ CPU      i5-12450H          │
+`d$$'     ,$P"'   .    $$$     │ GPU      RTX 3050 Mobile    │
+ $$P      d$'     ,    $$P     │ RAM      16 GB DDR4         │
+ $$:      $$.   -    ,d$$'     │ DISK     1 TB NVMe          │
+ $$;      Y$b._   _,d$P'       │ SHELL    fish               │
+ Y$$.    `.`"Y$$$$P"'          │ LANG     Turkish / English  │
+ `$$b      "-.__               │ STUDY    Communication / RTS│
+  `Y$$b                        │ FOCUS    Life               |
+     `$$b.                     │                             │
+       `Y$$b.                  └─────────────────────────────┘
+         `"Y$b._
+             `"""" 
