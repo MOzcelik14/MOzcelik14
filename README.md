@@ -10,10 +10,8 @@
  $$;      Y$b._   _,d$P'       DISK      1 TB NVMe
  Y$$.    `.`"Y$$$$P"'          SHELL     fish
  `$$b      "-.__               STUDY     Communication / RTS
-  `Y$$b                         FOCUS     Linux · AI · Python
-   `Y$$.                        MUSIC     M. Özçelik
-     `$$b.                      STATUS    Debian enjoyer
-       `Y$$b.
-         `"Y$b._
+  `Y$$b                        FOCUS     Life
+   `Y$$.                       
+      `"Y$b._
              `"""" 
 ```
