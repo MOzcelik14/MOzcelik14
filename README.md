@@ -9,24 +9,11 @@
 
 ### 🧭 Hakkımda
 
-- 🎬 Radyo, Televizyon ve Sinema öğrencisiyim — Bolu Abant İzzet Baysal Üniversitesi
-- 🛠️ **PureSteel Software**'in kurucu ortağıyım (kardeşlerimle birlikte) — mobil/web uygulama ve oyun geliştirme
-- 🎓 Uzun vadeli hedefim akademiye devam etmek
-- 🎼 "**M. Özçelik**" adıyla beat, film müziği ve deneysel elektronik müzik üretiyorum
-- 🐧 Linux tutkunu — donanım/çekirdek seviyesinde sorun avcılığı yapmayı seviyorum
-
----
-
-### 🎬 Filmografi
-
-Yönetmen, senarist ve editör olarak çalıştığım projeler:
-
-- **Zamansız Yolculuk**
-- **Gaia'nın Çığlığı**
-- **DISTANT**
-- Şu an bitirme filmim üzerinde çalışıyorum — dramatik-deneysel bir hibrit, statik çekimler ve küçük ekip
-
-TRT Geleceğin İletişimcileri ve Sabancı Vakfı kısa film yarışmalarına da katkıda bulundum.
+-  Radyo, Televizyon ve Sinema öğrencisiyim — Bolu Abant İzzet Baysal Üniversitesi
+- **PureSteel Software**'in kurucu ortağıyım (kardeşlerimle birlikte) — mobil/web uygulama ve oyun geliştirme
+-  Uzun vadeli hedefim akademiye devam etmek
+- "**M. Özçelik**" adıyla beat, film müziği ve deneysel elektronik müzik üretiyorum
+- Linux tutkunu — Sistemimle haşır neşir olmayı seviyorum.
 
 ---
 
@@ -36,7 +23,6 @@ TRT Geleceğin İletişimcileri ve Sabancı Vakfı kısa film yarışmalarına d
 |---|---|
 | 🤖 [**Aether**](https://github.com/MOzcelik14/Aether) | Ollama tabanlı, GTK4/Libadwaita arayüzlü yerel yapay zeka istemcisi (Python) |
 | 🔧 [**DebGear**](https://github.com/MOzcelik14/DebGear) | Debian için hafif bir GTK4 sürücü ve donanım yöneticisi |
-| 🏫 **İLEFBot** | BAİBÜ İletişim Fakültesi için yapay zeka projesi |
 
 ---
 
@@ -65,4 +51,4 @@ TRT Geleceğin İletişimcileri ve Sabancı Vakfı kısa film yarışmalarına d
 
 ---
 
-<p align="center"><i>Kamera, kod ve klavye arasında geziniyorum.</i></p>
+<p align="center"><i>Hoşçakalın, ben M. Özçelik.</i></p>
