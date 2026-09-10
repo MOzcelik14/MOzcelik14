@@ -1,7 +1,7 @@
 <h1 align="center">Selam, ben M. Özçelik. 👋</h1>
 
 <p align="center">
-  <b>RTS Öğrencisi · Müzisyen · Yazılım Geliştirici</b><br/>
+  <b>RTS Öğrencisi · Müzisyen · Bilişim Teknisyeni</b><br/>
   <a href="https://muratozcelik.vercel.app">muratozcelik.vercel.app</a>
 </p>
 
@@ -9,11 +9,7 @@
 
 ### 🧭 Hakkımda
 
--  Radyo, Televizyon ve Sinema öğrencisiyim — Bolu Abant İzzet Baysal Üniversitesi
-- **PureSteel Software**'in kurucu ortağıyım (kardeşlerimle birlikte) — mobil/web uygulama ve oyun geliştirme
--  Uzun vadeli hedefim akademiye devam etmek
-- "**M. Özçelik**" adıyla beat, film müziği ve deneysel elektronik müzik üretiyorum
-- Linux tutkunu — Sistemimle haşır neşir olmayı seviyorum.
+Bolu Abant İzzet Baysal Üniversitesi'nde Radyo, Televizyon ve Sinema okuyorum. Film yapımı, müzik prodüksiyonu ve yazılım geliştirme gibi işlerle ilgileniyorum.
 
 ---
 
@@ -44,9 +40,9 @@
 
 <p align="left">
   <a href="https://muratozcelik.vercel.app"><img src="https://img.shields.io/badge/Portfolyo-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/murat-%C3%B6zçelik-398713292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/murat-özçelik-398713292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/muratozclik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" /></a>
+  <a href="https://open.spotify.com/intl-tr/artist/2BlTVMDj9GnFcdL9kGWNOf"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
