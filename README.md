@@ -17,8 +17,10 @@ Bolu Abant İzzet Baysal Üniversitesi'nde Radyo, Televizyon ve Sinema okuyorum.
 
 | Proje | Açıklama |
 |---|---|
+| 🔧 [**PureSteel**](https://github.com/MOzcelik14/PureSteel-OS) | Debian tabanlı Linux işletim sistemi |
 | 🤖 [**Aether**](https://github.com/MOzcelik14/Aether) | Ollama tabanlı, GTK4/Libadwaita arayüzlü yerel yapay zeka istemcisi (Python) |
 | 🔧 [**DebGear**](https://github.com/MOzcelik14/DebGear) | Debian için hafif bir GTK4 sürücü ve donanım yöneticisi |
+
 
 ---
 
