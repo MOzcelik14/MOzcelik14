@@ -1,52 +1,22 @@
-<h1 align="center">Selam, ben M. Özçelik. 👋</h1>
+# Murat Özçelik
 
-<p align="center">
-  <b>RTS Öğrencisi · Müzisyen · Bilişim Teknisyeni</b><br/>
-  <a href="https://muratozcelik.vercel.app">muratozcelik.vercel.app</a>
-</p>
+I'm a developer and Radio, Television and Cinema student at Bolu Abant İzzet Baysal University. My work spans Linux desktop software, filmmaking, and music production.
 
----
+I primarily build tools for Debian-based systems, with an emphasis on native desktop applications and practical system utilities.
 
-### 🧭 Hakkımda
+## Selected projects
 
-Bolu Abant İzzet Baysal Üniversitesi'nde Radyo, Televizyon ve Sinema okuyorum. Film yapımı, müzik prodüksiyonu ve yazılım geliştirme gibi işlerle ilgileniyorum.
+| Project | Description |
+| --- | --- |
+| [Puresteel](https://github.com/MOzcelik14/Puresteel-OS) | Debian-based Linux distribution project with a graphical installer and its own system-management and update tooling. |
+| [Aether](https://github.com/MOzcelik14/Aether) | GTK 4 / Libadwaita desktop client for Ollama, with conversation history and model management. |
+| [DebGear](https://github.com/MOzcelik14/DebGear) | Debian hardware and driver center for inspecting graphics, firmware, kernel, and DKMS state. |
+| [MintGuard](https://github.com/MOzcelik14/MintGuard) | Linux Mint system-health and cleanup utility built with Python and PySide6. |
 
----
+## Technologies
 
-### 💻 Öne çıkan projeler
+Python · GTK 4 / Libadwaita · Qt / PySide6 · Bash · Debian / Linux · JavaScript
 
-| Proje | Açıklama |
-|---|---|
-| 🔧 [**PureSteel**](https://github.com/MOzcelik14/PureSteel-OS) | Debian tabanlı Linux işletim sistemi |
-| 🤖 [**Aether**](https://github.com/MOzcelik14/Aether) | Ollama tabanlı, GTK4/Libadwaita arayüzlü yerel yapay zeka istemcisi (Python) |
-| 🔧 [**DebGear**](https://github.com/MOzcelik14/DebGear) | Debian için hafif bir GTK4 sürücü ve donanım yöneticisi |
+## Links
 
-
----
-
-### 🛠️ Kullandığım teknolojiler
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GTK4-4A86CF?style=flat&logo=gtk&logoColor=white" />
-</p>
-
----
-
-### 🌐 Bağlantılar
-
-<p align="left">
-  <a href="https://muratozcelik.vercel.app"><img src="https://img.shields.io/badge/Portfolyo-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/murat-özçelik-398713292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/muratozclik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://open.spotify.com/intl-tr/artist/2BlTVMDj9GnFcdL9kGWNOf"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>Hoşçakalın, ben M. Özçelik.</i></p>
+[Portfolio](https://muratozcelik.vercel.app) · [LinkedIn](https://www.linkedin.com/in/murat-özçelik-398713292) · [Music](https://open.spotify.com/intl-tr/artist/2BlTVMDj9GnFcdL9kGWNOf)
