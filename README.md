@@ -9,6 +9,7 @@ I primarily build tools for Debian-based systems, with an emphasis on native des
 | Project | Description |
 | --- | --- |
 | [Puresteel](https://github.com/MOzcelik14/Puresteel-OS) | Debian-based Linux distribution project with a graphical installer and its own system-management and update tooling. |
+| [steM.](https://github.com/MOzcelik14/steM) | Desktop audio stem-separation studio powered by Demucs, with a GTK 4 interface and multitrack playback. |
 | [Aether](https://github.com/MOzcelik14/Aether) | GTK 4 / Libadwaita desktop client for Ollama, with conversation history and model management. |
 | [DebGear](https://github.com/MOzcelik14/DebGear) | Debian hardware and driver center for inspecting graphics, firmware, kernel, and DKMS state. |
 | [MintGuard](https://github.com/MOzcelik14/MintGuard) | Linux Mint system-health and cleanup utility built with Python and PySide6. |
