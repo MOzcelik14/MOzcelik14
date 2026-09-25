@@ -16,7 +16,7 @@ I primarily build tools for Debian-based systems, with an emphasis on native des
 
 ## Technologies
 
-Python · GTK 4 / Libadwaita · Qt / PySide6 · Bash · Debian / Linux · JavaScript
+C# · Java · SQL · Python · GTK4 · Libadwaita · Qt · PySide6 · Bash · Debian · Linux · JavaScript
 
 ## Links
 
