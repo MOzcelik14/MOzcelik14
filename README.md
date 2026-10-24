@@ -25,6 +25,15 @@ Yazılım ve medya tarafını birbirinden ayrı görmüyorum. Kendi ihtiyaçlar�
 </td>
 <td width="50%" valign="top">
 
+### [triM.](https://github.com/MOzcelik14/triM)
+
+Hafif ve modern bir non-linear video editörü geliştirme denemem.
+
+`Python` `Video` `NLE`
+
+</td>
+<td width="50%" valign="top">
+
 ### [steM.](https://github.com/MOzcelik14/steM)
 
 Ses dosyalarını stem'lerine ayırmaya ve kanalları ayrı ayrı dinlemeye yönelik masaüstü ses aracı.
@@ -34,15 +43,6 @@ Ses dosyalarını stem'lerine ayırmaya ve kanalları ayrı ayrı dinlemeye yön
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [triM.](https://github.com/MOzcelik14/triM)
-
-Hafif ve modern bir non-linear video editörü geliştirme denemem.
-
-`Python` `Video` `NLE`
-
-</td>
 <td width="50%" valign="top">
 
 ### [Aether](https://github.com/MOzcelik14/Aether)
