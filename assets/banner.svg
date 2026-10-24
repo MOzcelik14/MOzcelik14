@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t d">
+  <title id="t">Murat Özçelik</title>
+  <desc id="d">Bilişim teknisyeni, Radyo Televizyon ve Sinema öğrencisi, açık kaynak geliştiricisi</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <linearGradient id="bars" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363d"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <rect width="1200" height="260" fill="url(#dots)" opacity="0.6"/>
+    <rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
+
+    <!-- ses dalgası / zaman çizelgesi -->
+    <g fill="url(#bars)" opacity="0.85">
+      <rect x="760"  y="115" width="8" height="30"  rx="4"/>
+      <rect x="778"  y="100" width="8" height="60"  rx="4"/>
+      <rect x="796"  y="85"  width="8" height="90"  rx="4"/>
+      <rect x="814"  y="105" width="8" height="50"  rx="4"/>
+      <rect x="832"  y="70"  width="8" height="120" rx="4"/>
+      <rect x="850"  y="90"  width="8" height="80"  rx="4"/>
+      <rect x="868"  y="110" width="8" height="40"  rx="4"/>
+      <rect x="886"  y="80"  width="8" height="100" rx="4"/>
+      <rect x="904"  y="60"  width="8" height="140" rx="4"/>
+      <rect x="922"  y="95"  width="8" height="70"  rx="4"/>
+      <rect x="940"  y="75"  width="8" height="110" rx="4"/>
+      <rect x="958"  y="105" width="8" height="50"  rx="4"/>
+      <rect x="976"  y="85"  width="8" height="90"  rx="4"/>
+      <rect x="994"  y="65"  width="8" height="130" rx="4"/>
+      <rect x="1012" y="100" width="8" height="60"  rx="4"/>
+      <rect x="1030" y="110" width="8" height="40"  rx="4"/>
+      <rect x="1048" y="90"  width="8" height="80"  rx="4"/>
+      <rect x="1066" y="80"  width="8" height="100" rx="4"/>
+      <rect x="1084" y="105" width="8" height="50"  rx="4"/>
+      <rect x="1102" y="115" width="8" height="30"  rx="4"/>
+    </g>
+
+    <text x="64" y="118" fill="#f0f6fc" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700">Murat Özçelik</text>
+    <rect x="64" y="136" width="96" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="176" fill="#c9d1d9" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Bilişim teknisyeni · Radyo, Televizyon ve Sinema öğrencisi</text>
+    <text x="64" y="208" fill="#8b949e" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Açık kaynak geliştiricisi · Vibecoder</text>
+  </g>
+</svg>
