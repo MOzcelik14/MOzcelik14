@@ -60,7 +60,6 @@ Bolu Abant İzzet Baysal Üniversitesi'nde Radyo, Televizyon ve Sinema bölümü
 | [**DebGear**](https://github.com/MOzcelik14/DebGear) | Debian odaklı donanım ve sürücü merkezi. Paket işlemleri yalnızca Debian'da etkindir, evrensel bir sürücü yöneticisi değildir.<br>*Debian-focused hardware and driver center. Package operations are enabled only on Debian; not a universal driver manager.*<br>`Python` `GTK4` `MIT` |
 | [**MRT**](https://github.com/MOzcelik14/MRT) | Standart C ile sıfırdan yazdığım dinamik tipli bir programlama dili ve GTK4 tabanlı yerel IDE'si MRT Studio. Deneysel bir çalışma.<br>*A dynamically typed language written from scratch in standard C, with a native GTK4 IDE. Experimental.*<br>`C` `GTK4` `MIT` |
 | [**KalemX**](https://github.com/MOzcelik14/KalemX) | Linux masaüstünde ekran üzerine çizim ve açıklama aracı. Beta aşamasında; Wayland desteği masaüstü ortamına bağlı ve deneyseldir.<br>*Screen annotation tool for Linux. In beta; Wayland support depends on the compositor and is experimental.*<br>`Python` `GTK3 / Cairo` `MIT` |
-| [**HabitForge**](https://github.com/MOzcelik14/habitforge) | Günlük alışkanlık ve rutin takipçisi. GTK4, Libadwaita ve Cairo 2D motoru ile çizilen 52 haftalık aktivite ısı haritası.<br>*Daily habit and routine tracker. Features GTK4, Libadwaita and a 52-week activity heatmap drawn with Cairo.*<br>`Python` `GTK4 / Libadwaita` `Cairo` `MIT` |
 
 ## Teknolojiler / Technologies
 
