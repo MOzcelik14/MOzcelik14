@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://muratozcelik.vercel.app/">
+  <a href="https://mozcelik14.github.io/muratozcelik/">
     <img src="assets/banner.svg" alt="Murat Özçelik — Bilişim teknisyeni · Radyo, Televizyon ve Sinema öğrencisi · Açık kaynak geliştiricisi · Vibecoder" width="100%" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://muratozcelik.vercel.app/"><b>Portfolyo / Portfolio</b></a>
+  <a href="https://mozcelik14.github.io/muratozcelik/"><b>Portfolyo / Portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/murat-%C3%B6z%C3%A7elik-398713292">LinkedIn</a>
   &nbsp;·&nbsp;
