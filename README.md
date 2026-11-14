@@ -86,5 +86,5 @@ Hepsinde aynı derinlikte değilim; hangi projede ne kullandığım yukarıda be
 ---
 
 <p align="center">
-  <a href="https://muratozcelik.vercel.app/"><b>muratozcelik.vercel.app</b></a>
+  <a href="https://mozcelik14.github.io/muratozcelik/"><b>Siteme beklerim.</b></a>
 </p>
