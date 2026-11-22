@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mozcelik14.github.io/muratozcelik/">
-    <img src="https://raw.githubusercontent.com/MOzcelik14/MOzcelik14/main/assets/banner.svg?v=2" alt="Murat Özçelik — m. | Systems · Linux · Creative Tooling" width="100%" />
+    <img src="assets/banner-v2.svg" alt="Murat Özçelik — m. | Systems · Linux · Creative Tooling" width="100%" />
   </a>
 </p>
 

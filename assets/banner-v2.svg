@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Murat Özçelik — m. | Systems · Linux · Creative Tooling">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#161B22" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="tech-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363D" stroke-width="0.6" stroke-opacity="0.35" />
+    </pattern>
+    <clipPath id="card-clip">
+      <rect x="1" y="1" width="1198" height="258" rx="12" ry="12" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card-clip)">
+    <!-- Base Background -->
+    <rect width="1200" height="260" fill="url(#bg-grad)" />
+    <rect width="1200" height="260" fill="url(#tech-grid)" />
+
+    <!-- Right-side Timeline & Audio Waveform Motif -->
+    <g opacity="0.55" transform="translate(760, 44)">
+      <!-- NLE Timeline Tracks -->
+      <line x1="0" y1="20" x2="390" y2="20" stroke="#30363D" stroke-width="1" />
+      <line x1="0" y1="54" x2="390" y2="54" stroke="#30363D" stroke-width="1" />
+      <line x1="0" y1="88" x2="390" y2="88" stroke="#30363D" stroke-width="1" />
+      <line x1="0" y1="122" x2="390" y2="122" stroke="#30363D" stroke-width="1" />
+
+      <!-- Track Clips -->
+      <rect x="24" y="10" width="120" height="20" rx="4" fill="#1F6FEB" fill-opacity="0.22" stroke="#388BFD" stroke-opacity="0.5" stroke-width="1" />
+      <rect x="156" y="10" width="190" height="20" rx="4" fill="#1F6FEB" fill-opacity="0.16" stroke="#388BFD" stroke-opacity="0.4" stroke-width="1" />
+
+      <rect x="64" y="44" width="140" height="20" rx="4" fill="#238636" fill-opacity="0.22" stroke="#3FB950" stroke-opacity="0.5" stroke-width="1" />
+      <rect x="216" y="44" width="110" height="20" rx="4" fill="#238636" fill-opacity="0.14" stroke="#3FB950" stroke-opacity="0.35" stroke-width="1" />
+
+      <!-- Audio Waveform Bars -->
+      <g fill="#8B949E" fill-opacity="0.45">
+        <rect x="28" y="83" width="3" height="10" rx="1.5" />
+        <rect x="36" y="77" width="3" height="22" rx="1.5" />
+        <rect x="44" y="80" width="3" height="16" rx="1.5" />
+        <rect x="52" y="73" width="3" height="30" rx="1.5" />
+        <rect x="60" y="78" width="3" height="20" rx="1.5" />
+        <rect x="68" y="70" width="3" height="36" rx="1.5" />
+        <rect x="76" y="76" width="3" height="24" rx="1.5" />
+        <rect x="84" y="81" width="3" height="14" rx="1.5" />
+        <rect x="92" y="74" width="3" height="28" rx="1.5" />
+        <rect x="100" y="79" width="3" height="18" rx="1.5" />
+        <rect x="108" y="71" width="3" height="34" rx="1.5" />
+        <rect x="116" y="75" width="3" height="26" rx="1.5" />
+        <rect x="124" y="82" width="3" height="12" rx="1.5" />
+        <rect x="132" y="77" width="3" height="22" rx="1.5" />
+        <rect x="140" y="69" width="3" height="38" rx="1.5" />
+        <rect x="148" y="76" width="3" height="24" rx="1.5" />
+        <rect x="156" y="80" width="3" height="16" rx="1.5" />
+        <rect x="164" y="74" width="3" height="28" rx="1.5" />
+        <rect x="172" y="78" width="3" height="20" rx="1.5" />
+        <rect x="180" y="83" width="3" height="10" rx="1.5" />
+        <rect x="188" y="75" width="3" height="26" rx="1.5" />
+        <rect x="196" y="71" width="3" height="34" rx="1.5" />
+        <rect x="204" y="79" width="3" height="18" rx="1.5" />
+        <rect x="212" y="82" width="3" height="12" rx="1.5" />
+        <rect x="220" y="76" width="3" height="24" rx="1.5" />
+        <rect x="228" y="73" width="3" height="30" rx="1.5" />
+        <rect x="236" y="78" width="3" height="20" rx="1.5" />
+        <rect x="244" y="81" width="3" height="14" rx="1.5" />
+        <rect x="252" y="74" width="3" height="28" rx="1.5" />
+        <rect x="260" y="79" width="3" height="18" rx="1.5" />
+        <rect x="268" y="72" width="3" height="32" rx="1.5" />
+        <rect x="276" y="77" width="3" height="22" rx="1.5" />
+        <rect x="284" y="82" width="3" height="12" rx="1.5" />
+        <rect x="292" y="76" width="3" height="24" rx="1.5" />
+        <rect x="300" y="80" width="3" height="16" rx="1.5" />
+        <rect x="308" y="75" width="3" height="26" rx="1.5" />
+        <rect x="316" y="83" width="3" height="10" rx="1.5" />
+        <rect x="324" y="78" width="3" height="20" rx="1.5" />
+        <rect x="332" y="81" width="3" height="14" rx="1.5" />
+      </g>
+
+      <!-- Playhead -->
+      <line x1="176" y1="0" x2="176" y2="148" stroke="#58A6FF" stroke-width="1.5" stroke-opacity="0.7" />
+      <polygon points="171,0 181,0 176,7" fill="#58A6FF" fill-opacity="0.85" />
+
+      <!-- Bottom Status Pill -->
+      <rect x="24" y="138" width="322" height="22" rx="4" fill="#0D1117" stroke="#30363D" stroke-width="1" />
+      <text x="36" y="153" fill="#8B949E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.4">
+        00:01:24:08 · REC.2020 · 48KHZ · NATIVE
+      </text>
+    </g>
+
+    <!-- Left Typography Block -->
+    <g transform="translate(56, 62)">
+      <text x="0" y="0" fill="#58A6FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.6">
+        MOZCELIK14 // SYSTEMS &amp; CREATIVE TOOLING
+      </text>
+
+      <text x="0" y="54" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.8">
+        Murat Özçelik <tspan fill="#8B949E" font-weight="400">— m.</tspan>
+      </text>
+
+      <text x="0" y="92" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0.3">
+        Systems · Linux · Creative Tooling
+      </text>
+
+      <!-- Accent Divider -->
+      <rect x="0" y="114" width="380" height="2" rx="1" fill="url(#accent-line)" />
+
+      <text x="0" y="144" fill="#6E7681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="0.5">
+        Rust · Python · C · WGSL · GTK4 · wgpu · Debian
+      </text>
+    </g>
+  </g>
+
+  <!-- Outer Crisp Border -->
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="12" ry="12" fill="none" stroke="#30363D" stroke-width="1" />
+</svg>
