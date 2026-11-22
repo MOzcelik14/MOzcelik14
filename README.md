@@ -1,94 +1,204 @@
 <p align="center">
   <a href="https://mozcelik14.github.io/muratozcelik/">
-    <img src="assets/banner.svg" alt="Murat Özçelik — Bilişim teknisyeni · Radyo, Televizyon ve Sinema öğrencisi · Açık kaynak geliştiricisi · Vibecoder" width="100%" />
+    <img src="assets/banner.svg" alt="Murat Özçelik — m. | Systems · Linux · Creative Tooling" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <sub><i>IT technician · Radio, Television &amp; Cinema student · Open-source developer · Vibecoder</i></sub>
+  <sub><b>Bilişim Teknisyeni</b> · <b>Radyo, Televizyon ve Sinema Öğrencisi (4. Sınıf)</b> · <b>Açık Kaynak Geliştiricisi</b> · <b>Systems &amp; Creative Tooling Developer</b></sub>
 </p>
 
 <p align="center">
   <a href="https://mozcelik14.github.io/muratozcelik/"><b>Portfolyo / Portfolio</b></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/murat-%C3%B6z%C3%A7elik-398713292">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://instagram.com/muratozclik">Instagram</a>
 </p>
 
 ---
 
-Bolu Abant İzzet Baysal Üniversitesi'nde Radyo, Televizyon ve Sinema bölümünün 4. sınıfındayım. Lisede bilişim teknolojileri / veritabanı programcılığı okudum. Yazılımı sinema, ses ve müzikle aynı yerde, kendi ihtiyaçlarımdan yola çıkarak yapıyorum: kurguda, seste ve günlük Linux kullanımında eksik bulduğum araçları tasarlıyor, geliştiriyor ve kullanılabilir bir ürüne dönüştürmeye çalışıyorum. Bazı projeler hâlâ gelişme aşamasında; her birinin durumunu ilgili depoda belirtiyorum.
+Bolu Abant İzzet Baysal Üniversitesi Radyo, Televizyon ve Sinema 4. sınıf öğrencisiyim; lise eğitimimi Bilişim Teknolojileri / Veritabanı Programcılığı alanında tamamladım. Yazılımı sinema, ses ve müzikle aynı zeminde, kendi üretim ihtiyaçlarımdan yola çıkarak geliştiriyorum: kurguda, seste, görüntü işlemede ve günlük Linux kullanımında eksik gördüğüm araçları yerel ve kullanılabilir ürünlere dönüştürüyorum.
 
-*I'm a final-year Radio, Television and Cinema student at Bolu Abant İzzet Baysal University, with a vocational high school background in information technology and database programming. I build software alongside film, sound and music, starting from my own needs: I design and develop the tools I find missing in editing, audio work and everyday Linux use, and try to turn them into something usable. Some projects are still evolving; each repository states its own status.*
+*Final-year Radio, Television and Cinema student at Bolu Abant İzzet Baysal University with a vocational background in IT and database programming. I build software alongside film, sound and music from my own production needs—turning the missing pieces in editing, audio, imaging and everyday Linux workflows into native, usable tools.*
 
-## Öne çıkan projeler / Featured projects
+---
 
-| [**prisM. Suite**](https://github.com/MOzcelik14/prism-suite) |
-|:--|
-| Yaratıcı masaüstü uygulamaları ekosistemi için yerel başlatıcı, paket yöneticisi ve otomatik güncelleme merkezi. **triM.** (video), **steM.** (ses), **beaM.** (RAW fotoğraf) ve **draM.** (senaryo yazımı) stüdyolarını tek bir bağımsız ekosistem altında toplar; arka planda hafif çalışan, çapraz platform bir deneyim sunar.<br><br>*A native desktop launcher, package manager, and auto-updater for creative desktop applications. Unifies **triM.** (video), **steM.** (audio), **beaM.** (RAW photo), and **draM.** (screenwriting) under a single cohesive ecosystem, delivering a lightweight and native cross-platform experience.*<br><br>![Rust](https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=white) ![egui](https://img.shields.io/badge/egui_/_eframe-21262d?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262d?style=flat-square&logo=githubactions&logoColor=white) ![GPL-3.0](https://img.shields.io/badge/GPL--3.0-21262d?style=flat-square) |
+## Öne Çıkan Projeler / Featured Projects
 
-| [**triM.**](https://github.com/MOzcelik14/triM) |
-|:--|
-| Linux ve Windows için Rust ile yazdığım, Electron kullanmayan yerel ve doğrusal olmayan bir video düzenleyici (NLE). egui/eframe arayüzü, FFmpeg tabanlı donanım hızlandırmalı medya işleme, çok kanallı zaman çizelgesi, ses miksajı, renk düzenleme, başlık klipleri ve dışa aktarma sunar; CMX 3600 EDL ve Final Cut Pro XML desteğiyle diğer kurgu programlarıyla birlikte çalışabilirliği hedefler.<br><br>*A native, Electron-free non-linear video editor for Linux and Windows, written in Rust. It offers an egui/eframe interface, FFmpeg-based hardware-accelerated media processing, a multi-track timeline, audio mixing, color grading, title clips and export, and aims for interoperability with other editors through CMX 3600 EDL and Final Cut Pro XML.*<br><br>![Rust](https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=white) ![egui](https://img.shields.io/badge/egui_/_eframe-21262d?style=flat-square) ![FFmpeg](https://img.shields.io/badge/FFmpeg-21262d?style=flat-square&logo=ffmpeg&logoColor=white) ![GPL-3.0](https://img.shields.io/badge/GPL--3.0-21262d?style=flat-square) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/prism-suite">prisM. Suite</a></h3>
+      <p><b>TR:</b> <code>triM.</code>, <code>steM.</code>, <code>beaM.</code> ve <code>draM.</code> stüdyolarını tek çatı altında toplayan yerel başlatıcı, paket yöneticisi ve otomatik güncelleme merkezi.</p>
+      <p><i><b>EN:</b> Native desktop launcher, package manager, and auto-updater unifying the <code>triM.</code>, <code>steM.</code>, <code>beaM.</code>, and <code>draM.</code> studios under one ecosystem.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/egui_/_eframe-161B22?style=flat-square" alt="egui / eframe" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/GPL--3.0-161B22?style=flat-square" alt="GPL-3.0" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/triM">triM.</a></h3>
+      <p><b>TR:</b> Linux ve Windows için Electron kullanmayan yerel NLE video düzenleyici. egui/eframe arayüzü, FFmpeg donanım hızlandırma, çok kanallı zaman çizelgesi, ses miksajı, renk düzenleme, CMX 3600 EDL ve FCP XML desteği sunar.</p>
+      <p><i><b>EN:</b> Electron-free native NLE video editor for Linux and Windows featuring egui/eframe, FFmpeg hardware acceleration, multi-track timeline, audio mixing, color grading, and CMX 3600 EDL / FCP XML support.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/egui_/_eframe-161B22?style=flat-square" alt="egui / eframe" />
+        <img src="https://img.shields.io/badge/FFmpeg-161B22?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+        <img src="https://img.shields.io/badge/GPL--3.0-161B22?style=flat-square" alt="GPL-3.0" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/steM">steM.</a></h3>
+      <p><b>TR:</b> Sıfırdan Rust ile yazılan tahribatsız çok kanallı ses iş istasyonu. Lock-free SPSC gerçek zamanlı ses motoru, Demucs v4 stem ayrıştırma, kanal solo/mute/seviye kontrolü ve GPU hızlandırma içerir.</p>
+      <p><i><b>EN:</b> Non-destructive multi-track audio workstation written from scratch in Rust with a lock-free SPSC real-time audio engine, Demucs v4 stem separation, per-track solo/mute/level, and GPU acceleration.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/egui_/_eframe-161B22?style=flat-square" alt="egui / eframe" />
+        <img src="https://img.shields.io/badge/cpal_/_Symphonia-161B22?style=flat-square" alt="cpal / Symphonia" />
+        <img src="https://img.shields.io/badge/Demucs_v4-161B22?style=flat-square" alt="Demucs v4" />
+        <img src="https://img.shields.io/badge/GPL--3.0-161B22?style=flat-square" alt="GPL-3.0" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/beaM">beaM.</a></h3>
+      <p><b>TR:</b> Saf Rust ile geliştirilen tahribatsız RAW fotoğraf düzenleyici. <code>.beam</code> sidecar dosyaları, WGSL gölgelendiricileriyle doğrusal Rec.2020 renk işleme hattı ve katalog yönetimi sunar.</p>
+      <p><i><b>EN:</b> Non-destructive RAW photo editor built in pure Rust with <code>.beam</code> sidecar files, a WGSL-shader linear Rec.2020 color pipeline, and library catalog management.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/wgpu_30.0-161B22?style=flat-square&logo=webgpu&logoColor=white" alt="wgpu 30.0" />
+        <img src="https://img.shields.io/badge/egui_0.37-161B22?style=flat-square" alt="egui 0.37" />
+        <img src="https://img.shields.io/badge/GPL--3.0-161B22?style=flat-square" alt="GPL-3.0" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/draM">draM.</a></h3>
+      <p><b>TR:</b> Türkçe (<code>İÇ.</code>, <code>DIŞ.</code>, <code>(DEVAM)</code>) ve İngilizce (<code>INT.</code>, <code>EXT.</code>, <code>(CONT'D)</code>) kurallarını yerel destekleyen saf Rust senaryo yazım uygulaması. Baskı kalitesinde PDF (<code>krilla</code>), <code>.dram</code> arşivi, Fountain, Fade In ve Final Draft (<code>.fdx</code>) uyumluluğu sağlar.</p>
+      <p><i><b>EN:</b> Pure-Rust screenwriting app natively supporting Turkish and English screenplay rules, print-ready PDF export via <code>krilla</code>, <code>.dram</code> archives, and Fountain / Fade In / Final Draft (<code>.fdx</code>) interoperability.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/egui_/_eframe-161B22?style=flat-square" alt="egui / eframe" />
+        <img src="https://img.shields.io/badge/PDF_/_krilla-161B22?style=flat-square" alt="PDF / krilla" />
+        <img src="https://img.shields.io/badge/MIT_/_Apache--2.0-161B22?style=flat-square" alt="MIT / Apache-2.0" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/Puresteel-OS">Puresteel OS</a></h3>
+      <p><b>TR:</b> Debian 13 (Trixie) ve KDE Plasma 6 tabanlı bağımsız Linux dağıtımı. Calamares kurulumu, imzalı APT deposu, PySide6 tabanlı Puresteel Center, hibrit GPU desteği, ZRAM ayarları ve GitHub Actions otomatik ISO derlemesi içerir.</p>
+      <p><i><b>EN:</b> Independent Linux distribution based on Debian 13 (Trixie) and KDE Plasma 6 with Calamares installer, signed APT repository, PySide6 Puresteel Center, hybrid GPU support, ZRAM tuning, and automated ISO builds.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Debian_13-161B22?style=flat-square&logo=debian&logoColor=white" alt="Debian 13" />
+        <img src="https://img.shields.io/badge/KDE_Plasma_6-161B22?style=flat-square&logo=kde&logoColor=white" alt="KDE Plasma 6" />
+        <img src="https://img.shields.io/badge/Calamares-161B22?style=flat-square" alt="Calamares" />
+        <img src="https://img.shields.io/badge/PySide6-161B22?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/Aether">Aether</a></h3>
+      <p><b>TR:</b> Ollama üzerinden yerel ve uzak modellerle konuşan GTK4 / Libadwaita masaüstü istemcisi. Sade sohbet arayüzü, model yönetimi ve model ayarları sunar.</p>
+      <p><i><b>EN:</b> GTK4 / Libadwaita desktop client for local and remote models via Ollama, offering a clean chat interface, model management, and parameter controls.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GTK4_/_Libadwaita-161B22?style=flat-square&logo=gtk&logoColor=white" alt="GTK4 / Libadwaita" />
+        <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/MIT-161B22?style=flat-square" alt="MIT" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MOzcelik14/ILEFBot">İLEFBot</a></h3>
+      <p><b>TR:</b> BAİBÜ İletişim Fakültesi öğrencileri için bağımsız, mobil uyumlu yapay zekâ sohbet uygulaması. OpenRouter ücretsiz modelleri, yerel sohbet geçmişi ve açık/koyu tema içerir.</p>
+      <p><i><b>EN:</b> Independent, mobile-friendly AI chat web app for BAİBÜ Faculty of Communication students using OpenRouter free models, local history, and light/dark themes.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML_/_CSS-161B22?style=flat-square&logo=html5&logoColor=white" alt="HTML / CSS" />
+        <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/OpenRouter-161B22?style=flat-square" alt="OpenRouter" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-| [**steM.**](https://github.com/MOzcelik14/steM) |
-|:--|
-| Rust ile sıfırdan geliştirilen, yüksek performanslı ve tahribatsız (non-destructive) çok kanallı ses iş istasyonu ve dalga biçimi düzenleyicisi. Gerçek zamanlı ses iş parçacığında kilit ve bellek tahsisi yapmayan (lock-free SPSC) ses motoru, Demucs v4 ile vokal ve enstrüman ayrıştırma, kanal başına seviye / solo / mute kontrolü, senkronize çok kanallı oynatma ve GPU hızlandırma içerir.<br><br>*A high-performance, non-destructive multi-track audio workstation and waveform editor built from scratch in Rust. Features a lock-free real-time audio thread, Demucs v4 stem separation (vocals, drums, bass, other), per-track level/solo/mute controls, synchronized multi-channel playback, and GPU acceleration.*<br><br>![Rust](https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=white) ![egui](https://img.shields.io/badge/egui_/_eframe-21262d?style=flat-square) ![cpal](https://img.shields.io/badge/cpal_/_Symphonia-21262d?style=flat-square) ![Demucs](https://img.shields.io/badge/Demucs_v4-21262d?style=flat-square) ![GPL-3.0](https://img.shields.io/badge/GPL--3.0-21262d?style=flat-square) |
+---
 
-| [**beaM.**](https://github.com/MOzcelik14/beaM) |
-|:--|
-| Linux ve Windows için saf Rust ile geliştirilen açık kaynaklı, tahribatsız (non-destructive) RAW fotoğraf düzenleyici ve görsel stüdyosu. Orijinal dosyayı asla değiştirmeyen `.beam` yan dosyaları (sidecar), modüler WGSL gölgelendiricileriyle GPU hızlandırmalı doğrusal Rec.2020 renk işleme hattı ve geniş katalog yönetimi sunar; Adobe Lightroom'a yerel ve saf Rust bir alternatif oluşturmayı hedefler.<br><br>*An open-source, non-destructive RAW photo editor and library manager for Linux and Windows built in pure Rust. Features sidecar edit storage (`.beam`), a GPU-accelerated WGSL pipeline operating internally in linear Rec.2020 color space, and high-performance library management as a pure-Rust alternative to Adobe Lightroom.*<br><br>![Rust](https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=white) ![wgpu](https://img.shields.io/badge/wgpu_30.0-21262d?style=flat-square&logo=webgpu&logoColor=white) ![egui](https://img.shields.io/badge/egui_0.37-21262d?style=flat-square) ![GPL-3.0](https://img.shields.io/badge/GPL--3.0-21262d?style=flat-square) |
+## Diğer Projeler / More Projects
 
-| [**draM.**](https://github.com/MOzcelik14/draM) |
-|:--|
-| Senaristler, yönetmenler ve yapım ekipleri için saf Rust ile geliştirilen masaüstü senaryo yazım uygulaması. Türkçe (`İ/i`, `I/ı`, `İÇ.`, `DIŞ.`, `(DEVAM)`) ve İngilizce (`INT.`, `EXT.`, `(CONT'D)`) senaryo yazım kurallarını yerel olarak destekler; otomatik biçimlendirme, sahne gezgini, baskı kalitesinde PDF üretimi, `.dram` proje arşivi ve Fountain / Fade In / Final Draft (`.fdx`) formatlarıyla tam uyumluluk sunar.<br><br>*A desktop screenwriting application for screenwriters, directors, and production teams, built in pure Rust. Natively supports both Turkish and English screenplay conventions, featuring automatic formatting, scene navigator, print-ready PDF export, `.dram` project archives, and full interoperability with Fountain, Fade In, and Final Draft (`.fdx`).*<br><br>![Rust](https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=white) ![egui](https://img.shields.io/badge/egui_/_eframe-21262d?style=flat-square) ![PDF](https://img.shields.io/badge/PDF_/_krilla-21262d?style=flat-square) ![MIT/Apache-2.0](https://img.shields.io/badge/MIT_/_Apache--2.0-21262d?style=flat-square) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MOzcelik14/MintGuard">MintGuard</a></h4>
+      <p><b>TR:</b> Linux Mint için sistem sağlığı ve bakım aracı; tüm temizlik işlemleri kullanıcı onayı ister, telemetri içermez.<br><i><b>EN:</b> System health and maintenance tool for Linux Mint with explicit confirmation and zero telemetry.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PySide6-161B22?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MOzcelik14/DebGear">DebGear</a></h4>
+      <p><b>TR:</b> Debian odaklı donanım ve sürücü merkezi; paket işlemleri yalnızca Debian sistemlerde etkindir.<br><i><b>EN:</b> Debian-focused hardware and driver center with package operations scoped to Debian systems.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GTK4-161B22?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
+        <img src="https://img.shields.io/badge/MIT-161B22?style=flat-square" alt="MIT" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MOzcelik14/MRT">MRT</a></h4>
+      <p><b>TR:</b> Standart C ile sıfırdan yazılmış dinamik tipli programlama dili ve GTK4 tabanlı MRT Studio IDE'si.<br><i><b>EN:</b> Dynamically typed programming language written from scratch in standard C, paired with the native GTK4 MRT Studio IDE.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/GTK4-161B22?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
+        <img src="https://img.shields.io/badge/MIT-161B22?style=flat-square" alt="MIT" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MOzcelik14/KalemX">KalemX</a></h4>
+      <p><b>TR:</b> Linux masaüstü için ekran çizim ve açıklama aracı (beta; Wayland desteği masaüstü ortamına bağlıdır).<br><i><b>EN:</b> Desktop screen annotation and drawing tool for Linux (beta; Wayland support is compositor-dependent).</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GTK3_/_Cairo-161B22?style=flat-square&logo=gtk&logoColor=white" alt="GTK3 / Cairo" />
+        <img src="https://img.shields.io/badge/MIT-161B22?style=flat-square" alt="MIT" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-| [**Puresteel OS**](https://github.com/MOzcelik14/Puresteel-OS) |
-|:--|
-| Debian 13 (Trixie) ve KDE Plasma 6 tabanlı, bağımsız bir Linux dağıtımı. Oyun, yaratıcı üretim ve geliştirici araçlarını temiz bir masaüstünde toplar. Calamares tabanlı grafiksel kurulum, imzalı APT deposu, kendi sistem yönetim uygulaması Puresteel Center, Intel / AMD / NVIDIA ve hibrit GPU desteği, ZRAM ayarları ve GitHub Actions ile otomatik ISO derlemesi içerir.<br><br>*An independent Linux distribution based on Debian 13 (Trixie) and KDE Plasma 6, bringing gaming, creative and developer tools together on a clean desktop. It includes a Calamares-based installer, a signed APT repository, its own system management app (Puresteel Center), Intel / AMD / NVIDIA and hybrid GPU support, ZRAM tuning and automated ISO builds on GitHub Actions.*<br><br>![Debian](https://img.shields.io/badge/Debian_13-21262d?style=flat-square&logo=debian&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma_6-21262d?style=flat-square&logo=kde&logoColor=white) ![Calamares](https://img.shields.io/badge/Calamares-21262d?style=flat-square) ![PySide6](https://img.shields.io/badge/PySide6-21262d?style=flat-square&logo=qt&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262d?style=flat-square&logo=githubactions&logoColor=white) |
+---
 
-| [**Aether**](https://github.com/MOzcelik14/Aether) |
-|:--|
-| Ollama üzerinden yerel veya uzak modellerle konuşan GTK4 / Libadwaita masaüstü istemcisi. Sohbet arayüzü, model yönetimi ve model ayarları sunar; amaç, kendi çalıştırdığım modelleri sade bir masaüstü uygulamasından kullanabilmek.<br><br>*A GTK4 / Libadwaita desktop client for talking to local or remote models through Ollama. It provides a chat interface, model management and model settings, so models I run myself can be used from a simple desktop app.*<br><br>![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![GTK4](https://img.shields.io/badge/GTK4_/_Libadwaita-21262d?style=flat-square&logo=gtk&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-21262d?style=flat-square&logo=ollama&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-21262d?style=flat-square) |
+## Teknoloji Yığını / Tech Stack
 
-| [**İLEFBot**](https://github.com/MOzcelik14/ILEFBot) |
-|:--|
-| BAİBÜ İletişim Fakültesi öğrencileri için geliştirdiğim bağımsız, mobil uyumlu bir yapay zekâ sohbet uygulaması. OpenRouter üzerinden ücretsiz modellere erişir; çoklu sohbet, tarayıcıda saklanan geçmiş ve açık / koyu tema içerir. Üniversitenin resmî hizmeti değildir.<br><br>*An independent, mobile-friendly AI chat app I built for students of the BAİBÜ Faculty of Communication. It uses free models through OpenRouter and includes multiple chats, browser-stored history and light / dark themes. It is not an official university service.*<br><br>![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML_/_CSS-21262d?style=flat-square&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-21262d?style=flat-square&logo=vercel&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-21262d?style=flat-square) |
-
-## Diğer projeler / More projects
-
-| Proje | Açıklama / Description |
-|:--|:--|
-| [**MintGuard**](https://github.com/MOzcelik14/MintGuard) | Linux Mint için sistem sağlığı ve bakım uygulaması. Temizlik işlemleri kullanıcı onayı ister, telemetri yoktur.<br>*System health and maintenance app for Linux Mint. Cleanups require confirmation; no telemetry.*<br>`Python` `PySide6` |
-| [**DebGear**](https://github.com/MOzcelik14/DebGear) | Debian odaklı donanım ve sürücü merkezi. Paket işlemleri yalnızca Debian'da etkindir, evrensel bir sürücü yöneticisi değildir.<br>*Debian-focused hardware and driver center. Package operations are enabled only on Debian; not a universal driver manager.*<br>`Python` `GTK4` `MIT` |
-| [**MRT**](https://github.com/MOzcelik14/MRT) | Standart C ile sıfırdan yazdığım dinamik tipli bir programlama dili ve GTK4 tabanlı yerel IDE'si MRT Studio. Deneysel bir çalışma.<br>*A dynamically typed language written from scratch in standard C, with a native GTK4 IDE. Experimental.*<br>`C` `GTK4` `MIT` |
-| [**KalemX**](https://github.com/MOzcelik14/KalemX) | Linux masaüstünde ekran üzerine çizim ve açıklama aracı. Beta aşamasında; Wayland desteği masaüstü ortamına bağlı ve deneyseldir.<br>*Screen annotation tool for Linux. In beta; Wayland support depends on the compositor and is experimental.*<br>`Python` `GTK3 / Cairo` `MIT` |
-
-## Teknolojiler / Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
-</p>
-
-Hepsinde aynı derinlikte değilim; hangi projede ne kullandığım yukarıda belirtilmiş durumda.
-*My depth varies across these; the project entries above show what I actually use where.*
-
-- **Diller / Languages:** Rust, Python, C, WGSL (WebGPU), C#, Java, JavaScript, HTML, CSS
-- **Masaüstü & Grafik / Desktop & Graphics:** egui / eframe, wgpu (WebGPU), GTK4 / Libadwaita, GTK3 / Cairo, PySide6 (Qt 6)
-- **Medya, Ses ve Video / Media, Audio & Video:** FFmpeg, cpal, Symphonia, Demucs v4, GStreamer
-- **Linux ve Sistem / Linux and Systems:** Debian, APT paketleme, Flatpak, Calamares, Bash
-- **Yapay Zekâ / AI:** Ollama, OpenRouter
-- **Araçlar / Tooling:** Git, Cargo, GitHub Actions
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><b>Diller / Languages</b></p>
+      <p><code>Rust</code> · <code>Python</code> · <code>C</code> · <code>WGSL (WebGPU)</code> · <code>C#</code> · <code>Java</code> · <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code></p>
+      <p><b>Masaüstü &amp; Grafik / Desktop &amp; Graphics</b></p>
+      <p><code>egui / eframe</code> · <code>wgpu (WebGPU)</code> · <code>GTK4 / Libadwaita</code> · <code>GTK3 / Cairo</code> · <code>PySide6 (Qt 6)</code></p>
+      <p><b>Medya, Ses &amp; Video / Media, Audio &amp; Video</b></p>
+      <p><code>FFmpeg</code> · <code>cpal</code> · <code>Symphonia</code> · <code>Demucs v4</code> · <code>GStreamer</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><b>Linux &amp; Sistem / Linux &amp; Systems</b></p>
+      <p><code>Debian</code> · <code>APT Paketleme</code> · <code>Flatpak</code> · <code>Calamares</code> · <code>Bash</code></p>
+      <p><b>Yapay Zekâ &amp; Araçlar / AI &amp; Tooling</b></p>
+      <p><code>Ollama</code> · <code>OpenRouter</code> · <code>Git</code> · <code>Cargo</code> · <code>GitHub Actions</code></p>
+      <p><sub><i>Projelerdeki kullanım derinliğim farklılık gösterir; hangi teknolojinin nerede kullanıldığı yukarıdaki kartlarda belirtilmiştir. / Depth varies across tools; project cards show exact usage.</i></sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <a href="https://mozcelik14.github.io/muratozcelik/"><b>Siteme beklerim.</b></a>
+  <a href="https://mozcelik14.github.io/muratozcelik/"><b>mozcelik14.github.io/muratozcelik</b></a>
 </p>
